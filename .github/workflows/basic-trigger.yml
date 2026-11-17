@@ -1,5 +1,4 @@
 name: Basic HTML trigger
-
 on:
   push:
     branches:
